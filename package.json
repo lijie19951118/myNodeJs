@@ -1,0 +1,22 @@
+{
+  "name": "lijie1995",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijie19951118/myNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijie19951118/myNodeJs/issues"
+  },
+  "homepage": "https://github.com/lijie19951118/myNodeJs#readme"
+}
